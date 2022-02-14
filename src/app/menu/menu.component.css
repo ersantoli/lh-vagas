@@ -1,0 +1,21 @@
+#top{
+    background-color: black;
+    height: 50px;
+}
+ul{
+    background-color: blueviolet;
+    height: 80px;
+    color: antiquewhite;
+    margin-bottom: 20px;
+    text-align: center;
+    justify-content: center;
+
+}
+li{
+    color: aliceblue;
+    text-align: center;
+}
+a{
+    color: aliceblue;
+    text-align: center;
+}

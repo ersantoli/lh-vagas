@@ -2,8 +2,8 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 import { Routes, RouterModule } from '@angular/router';
-import { MuaralVagasComponent } from './muaral-vagas/muaral-vagas.component';
-import { PainelVagasComponent } from './painel-vagas/painel-vagas.component';
+import { MuaralVagasComponent } from '../muaral-vagas/muaral-vagas.component';
+import { PainelVagasComponent } from '../painel-vagas/painel-vagas.component';
 
 
 
